@@ -64,6 +64,8 @@ parts:
   - caption: Advanced courses
     chapters:
     - file: advanced-training-materials/funestus_exploration
+    - file: advanced-training-materials/funestus_pop_struct
+    - file: advanced-training-materials/funestus_IR
   - caption: Malaria Vector Genome Observatory
     chapters:
     - file: general/data-access
